@@ -10,7 +10,6 @@ body {
   font-family: -apple-system, 'Avenir Next', 'Helvetica Neue', 'Helvetica', 'Roboto',  sans-serif;
   overflow-x: hidden;
   background: #fff;
-  -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   -o-user-select: none;
